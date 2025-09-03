@@ -1,5 +1,6 @@
-d dane (change on line 1)
+d dane 
 a actor
-n name (change on line 3)
+n name 
+n nice
 s silver
-k knew
+k kick
