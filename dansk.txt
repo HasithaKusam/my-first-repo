@@ -1,5 +1,5 @@
-d dane
+d dane (change on line 1)
 a actor
-n news
+n name (change on line 3)
 s silver
 k knew
